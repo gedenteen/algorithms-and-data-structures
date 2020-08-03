@@ -7,3 +7,12 @@ https://stepik.org/course/217
 - 2.2.3 огромное число Фибоначчи по модулю https://stepik.org/lesson/13228/step/8?unit=3414
 ## Раздел 2.3 Наибольший общий делитель 
 - 2.3.1 наибольший общий делитель https://stepik.org/lesson/13229/step/5?unit=3415
+## Раздел 4.1 Жадные алгоритмы: введение
+- 4.1.1 покрыть отрезки точками https://stepik.org/lesson/13238/step/9?unit=3424
+- 4.1.2 непрерывный рюкзак https://stepik.org/lesson/13238/step/10?unit=3424
+- 4.1.3 различные слагаемые https://stepik.org/lesson/13238/step/11?unit=3424
+## Раздел 4.2 Коды Хаффмана
+- 4.2.1 кодирование Хаффмана https://stepik.org/lesson/13239/step/5?unit=3425
+- 4.2.2 декодирование Хаффмана https://stepik.org/lesson/13239/step/6?unit=3425
+## Раздел 4.3 Очереди с приоритетами
+- 4.3.1 очередь с приоритетами (куча) https://stepik.org/lesson/13240/step/8?unit=3426
