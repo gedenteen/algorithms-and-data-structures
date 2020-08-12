@@ -16,3 +16,6 @@ https://stepik.org/course/217
 - 4.2.2 декодирование Хаффмана https://stepik.org/lesson/13239/step/6?unit=3425
 ## Раздел 4.3 Очереди с приоритетами
 - 4.3.1 очередь с приоритетами (куча) https://stepik.org/lesson/13240/step/8?unit=3426
+## Раздел 6 Разделяй и властвуй
+- 6.1.1 двоичный поиск https://stepik.org/lesson/13246/step/4?unit=3431
+- 6.4.1 число инверсий, сортировка слиянием: https://stepik.org/lesson/13248/step/5?unit=3433
