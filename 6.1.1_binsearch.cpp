@@ -6,19 +6,17 @@
 int get_pos(const std::vector<int> &numbers, int number) {
   // TODO optimize this function
   int n = numbers.size(), l = 0, r = n, m, i;
-  for (i = 0; i < n; i++) {
-      while (l < r) {
-          m = (l + r) / 2;
-          if (number > numbers[m])
-              l = m + 1;
-          else
-              r = m;
-      }
-      if (number == numbers[l])
-          return l + 1;
-      else
-          return -1;
-  }
+    while (l < r) {
+        m = (l + r) / 2;
+        if (number > numbers[m])
+            l = m + 1;
+        else
+            r = m;
+    }
+    if (number == numbers[l])
+        return l + 1;
+    else
+        return -1;
 }
 
 int main(void) {
