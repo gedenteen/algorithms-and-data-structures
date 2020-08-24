@@ -17,3 +17,4 @@ https://stepik.org/course/217
 - 6.1.1 двоичный поиск https://stepik.org/lesson/13246/step/4?unit=3431
 - 6.4.1 число инверсий, сортировка слиянием: https://stepik.org/lesson/13248/step/5?unit=3433
 - 6.5.1 точки и отрезки, быстрая сортировка https://stepik.org/lesson/13249/step/6?discussion=134851&reply=134858&unit=3434
+- 6.8.1 сортировка подсчетом https://stepik.org/lesson/13252/step/3?unit=3437
