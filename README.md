@@ -18,3 +18,5 @@ https://stepik.org/course/217
 - 6.4.1 число инверсий, сортировка слиянием: https://stepik.org/lesson/13248/step/5?unit=3433
 - 6.5.1 точки и отрезки, быстрая сортировка https://stepik.org/lesson/13249/step/6?discussion=134851&reply=134858&unit=3434
 - 6.8.1 сортировка подсчетом https://stepik.org/lesson/13252/step/3?unit=3437
+## Раздел 8 Динамическое программирование
+- 8.2.1 наибольшая подпоследовательность https://stepik.org/lesson/13257/step/5?unit=3442
