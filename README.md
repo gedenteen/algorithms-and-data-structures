@@ -20,3 +20,4 @@ https://stepik.org/course/217
 - 6.8.1 сортировка подсчетом https://stepik.org/lesson/13252/step/3?unit=3437
 ## Раздел 8 Динамическое программирование
 - 8.2.1 наибольшая подпоследовательность https://stepik.org/lesson/13257/step/5?unit=3442
+- 8.2.2 подпоследовательность за O(nlogn) https://stepik.org/lesson/13257/step/6?unit=3442
