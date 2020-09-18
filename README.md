@@ -22,3 +22,4 @@ https://stepik.org/course/217
 - 8.2.1 наибольшая подпоследовательность https://stepik.org/lesson/13257/step/5?unit=3442
 - 8.2.2 подпоследовательность за O(nlogn) https://stepik.org/lesson/13257/step/6?unit=3442
 - 8.3.1 расстояние редактирования (строк) https://stepik.org/lesson/13258/step/8?unit=3443
+- 8.4.1 рюкзак без деления предметов и повторений https://stepik.org/lesson/13259/step/5?unit=3444
