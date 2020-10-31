@@ -23,3 +23,5 @@ https://stepik.org/course/217
 - 8.2.2 подпоследовательность за O(nlogn) https://stepik.org/lesson/13257/step/6?unit=3442
 - 8.3.1 расстояние редактирования (строк) https://stepik.org/lesson/13258/step/8?unit=3443
 - 8.4.1 рюкзак без деления предметов и повторений https://stepik.org/lesson/13259/step/5?unit=3444
+- 8.7.2 лестница https://stepik.org/lesson/13262/step/4?unit=3447
+- 8.7.3 калькулятор https://stepik.org/lesson/13262/step/5?unit=3447
